@@ -4,6 +4,5 @@
   "sha256": "277a5a3d7cc5067720082f796f069acee030a26fe715c6c73a824e3930ee3f9b",
   "size": 95995296,
   "notes": "v1.3.1：按地面站结构补齐 8 个页面 —— 传感器与校准（实时水平仪+加速度计校准）、接收机实时通道、模式开关、故障保护、图传设置、黑匣子、GPS、命令行；电机页新增整体转向与单电机低速点动；共 32 页。",
-  "mandatory": false,
-  "mirror_github": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.3.1.zip"
+  "mandatory": false
 }
