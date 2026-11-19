@@ -1,9 +1,9 @@
 {
-  "version": "1.2",
-  "url": "https://aka.doubaocdn.com/s/UtqmVSJn6d",
-  "sha256": "87b2cb8ef0a213d1c276ed6867d7f76c643489052b5fad28e6b49b4e4ff4b1c9",
-  "size": 95955253,
-  "notes": "v1.2：云端自动更新上线（后台高速下载、SHA256 校验、保留授权）；更新探测兼容不支持 HEAD 的 CDN",
+  "version": "1.3",
+  "url": "https://aka.doubaocdn.com/s/qVZHqbn4GH",
+  "sha256": "460fedf2b01841cd070ff3610a595f57936b679c26bcd25c5ba7e08858dca496",
+  "size": 95954927,
+  "notes": "v1.3：更新页移除更新源地址输入框与保存按钮，更新源改由后台读取，界面不再显示、不可修改",
   "mandatory": false,
-  "mirror_github": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.2.zip"
+  "mirror_github": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.3.zip"
 }
