@@ -1,9 +1,9 @@
 {
-  "version": "1.3",
-  "url": "https://aka.doubaocdn.com/s/qVZHqbn4GH",
-  "sha256": "460fedf2b01841cd070ff3610a595f57936b679c26bcd25c5ba7e08858dca496",
-  "size": 95954927,
-  "notes": "v1.3：更新页移除更新源地址输入框与保存按钮，更新源改由后台读取，界面不再显示、不可修改",
+  "version": "1.3.1",
+  "url": "https://aka.doubaocdn.com/s/eB4Mb21rf4",
+  "sha256": "4bd1929602fed50fdcaf57628bf2a60c1076ea4e326206628d7fe1549f7281ff",
+  "size": 95993328,
+  "notes": "v1.3.1：按地面站结构补齐 8 个页面 —— 传感器与校准（实时水平仪+加速度计校准）、接收机实时通道、模式开关、故障保护、图传设置、黑匣子、GPS、命令行；电机页新增整体转向与单电机低速点动；共 32 页。",
   "mandatory": false,
-  "mirror_github": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.3.zip"
+  "mirror_github": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.3.1.zip"
 }
