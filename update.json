@@ -1,8 +1,9 @@
 {
   "version": "1.2",
-  "url": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.2.zip",
+  "url": "https://aka.doubaocdn.com/s/UtqmVSJn6d",
   "sha256": "87b2cb8ef0a213d1c276ed6867d7f76c643489052b5fad28e6b49b4e4ff4b1c9",
   "size": 95955253,
   "notes": "v1.2：云端自动更新上线（后台高速下载、SHA256 校验、保留授权）；更新探测兼容不支持 HEAD 的 CDN",
-  "mandatory": false
+  "mandatory": false,
+  "mirror_github": "https://raw.githubusercontent.com/wang7215/fpv-groundstation-update/main/FPVGCS_v1.2.zip"
 }
